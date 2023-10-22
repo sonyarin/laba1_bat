@@ -1,8 +1,5 @@
 # laba1_bat
-<<<<<<< HEAD
-# laba1_sh
-# laba1_sh
-=======
+
 @echo off
 setlocal enabledelayedexpansion
 
