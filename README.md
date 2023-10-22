@@ -29,5 +29,4 @@ for /l %%c in (1,1,%i%) do (
 sort /r result.txt /o results.txt
 
 exit /b  
->>>>>>> 537e3964713818d18b2bf088ac61db81448d2537
-# laba1_sh
+
